@@ -34,6 +34,6 @@ The dataset consists of 3000 [Dota 2 Steam reviews](https://steamcommunity.com/a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dota2-review-classification.git
-   cd dota2-review-classification
+   git clone https://github.com/menggiGit33/Dota-2-Review-Analysis-ML.git
+   cd Dota-2-Review-Analysis-ML
    
